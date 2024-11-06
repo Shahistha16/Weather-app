@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  background-image: linear-gradient(to right top, #d16bb2, #c578c4, #b685d2, #a690dc, #979be3, #909be8, #889bee, #7e9bf3, #8090fa, #8983fe, #9773fe, #a95ffb);
+}
